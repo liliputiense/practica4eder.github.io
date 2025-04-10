@@ -16,7 +16,7 @@ Elder Marcial Jimenez
         }
         header {
             background: #35424a;
-            color: white;
+            color: red;
             padding: 20px;
             text-align: center;
         }
