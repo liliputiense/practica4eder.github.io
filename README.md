@@ -12,7 +12,7 @@ Elder Marcial Jimenez
             line-height: 1.6;
             margin: 0;
             padding: 20px;
-            background-color: #f4f4f4;
+            background-color: #f4;
         }
         header {
             background: #35424a;
